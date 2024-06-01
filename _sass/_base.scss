@@ -372,8 +372,8 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
-
+    font-size: 2rem;
+    width: 100%;
     a {
       i::before {
         color: var(--global-text-color);
