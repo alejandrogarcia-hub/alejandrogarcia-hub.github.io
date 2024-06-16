@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - alejandrogarcia-hub
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
+  - alejandrogarcia-hub/gpt-from-scratch
+  - alejandrogarcia-hub/alejandrogarcia-hub.github.io
+  - explodinggradients/ragas
+  - karpathy/micrograd
+  - langchain-ai/langgraph
+  - Chainlit/chainlit
+  - run-llama/llama_index
   - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
