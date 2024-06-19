@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Working on a big idea in the area of AI and the blockchain, staytuned.
+Working on a big idea in the area of AI and the blockchain, stay tuned.
