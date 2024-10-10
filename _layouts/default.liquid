@@ -13,6 +13,16 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+    {% comment %}
+      <style>
+        .bgimage {
+          background-image: url('{{ site.relative_url }}/assets/img/bground-2.png');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+        }
+      </style>
+    {% endcomment %}
   </head>
 
   <!-- Body -->
