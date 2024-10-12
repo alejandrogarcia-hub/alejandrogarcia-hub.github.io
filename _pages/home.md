@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   # image: prof_pic.jpg
-  image: me_pic_color.png
+  image: me_pic_color_nbg.png
   image_circular: false # crops the image to make it circular
 #   more_info: >
 #     <p>555 your office number</p>
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 I am a Computer Scientist passionate about building and leading end-to-end software solutions.
 I have broad practical experience in software engineering, AI/ML, leading teams, project managment as well as coordinating multidisciplinary teams. I am working on leading a mandate to design, architect and implement AI solutions across business units.
 
-I have extensive experience in multiple domain areas, E-Commerce, Fintech, Enterprise Banking, IoT and RegTech. Having been responsible for developing comprehensive machine learning, data, analytics, and integration strategies in complex business environments.
+I have extensive experience in multiple domain areas: AI, E-Commerce, Fintech, Enterprise Banking, IoT, RegTech and Blockchain. Having been responsible for developing comprehensive machine learning, data, analytics, and integration strategies in complex business environments.
 
 My roles required a robust understanding of early stages product management and development, and communication skills allowing me to work effectively across different business units and influence key stakeholders. I can define and execute strategic visions and create disruptive solutions that align with core long term business objectives.
 

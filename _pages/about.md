@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me_pic_color.png
   image_circular: false # crops the image to make it circular
 #   more_info: >
 #     <p>555 your office number</p>
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Computer Scientist passionate about building and leading end-to-end software solutions. 
+I am a Computer Scientist passionate about building and leading end-to-end software solutions.
 I have broad practical experience in software engineering, AI/ML, leading teams, project managment as well as coordinating multidisciplinary teams. I am working on leading a mandate to design, architect and implement AI solutions across business units.
 
 I have extensive experience in multiple domain areas, E-Commerce, Fintech, Enterprise Banking, IoT and RegTech. Having been responsible for developing comprehensive machine learning, data, analytics, and integration strategies in complex business environments.
